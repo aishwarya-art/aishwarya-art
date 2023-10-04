@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a passionate and creative Full Stack Developer currently pursuing a Bachelor's in Engineering with a focus on Information Science and Engineering. My journey in the tech world has equipped me with skills in various technologies, including:
+I'm a passionate and creative Full Stack Developer. My journey in the tech world has equipped me with skills in various technologies, including:
 
 - **CodeIgniter**
 - **JavaScript**
