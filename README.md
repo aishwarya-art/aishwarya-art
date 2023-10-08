@@ -8,7 +8,7 @@
 
 > [Aishwarya's Portfolio](https://aishwarya-art.github.io/Portfolio_Aishwarya/)
  
-- Started with Front-End Web Development using _HTML_, _CSS_,Javascript and _Bootstrap_ and moved onto Application Development using react. 
+- Started with Front-End Web Development using _HTML_, _CSS_,Javascript and _Bootstrap_ and moved onto Application Development. 
 - Interested in  _Full Stack Web Development_ using the MERN stack.
 - Likes exploring cryptography as a side hobby.
 - Proficient in **Python,PHP,MYSQL, and Java**.
