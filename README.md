@@ -18,6 +18,8 @@
 - How to reach me: **aishwarya.ms46@gmail.com**
 
 <div style="background-color:black;">
-<h4> MY BLOGS</h4>
- [Developer Code Documentation](https://medium.com/@aishwarya.ms661/from-chaos-to-clarity-developer-documentation-insights-0b31374d6961)
+<h3> MY BLOGS</h3>
+
+
+- [Developer Code Documentation](https://medium.com/@aishwarya.ms661/from-chaos-to-clarity-developer-documentation-insights-0b31374d6961)
 </div>
