@@ -1,6 +1,6 @@
-
+(https://github.com/aishwarya-art/aishwarya-art/assets/113532088/b5ebe464-d61b-4745-b8ee-edb7c1e7f506)
 <div align="center">
-[background](https://github.com/aishwarya-art/aishwarya-art/assets/113532088/b5ebe464-d61b-4745-b8ee-edb7c1e7f506)
+
 
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aishwarya! </h1>
 <h3 align="center"> Full-stack developer by profession, occasional artist by choice.</h3>
