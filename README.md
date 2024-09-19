@@ -10,4 +10,5 @@
 
 
 - [Developer Code Documentation](https://medium.com/@aishwarya.ms661/from-chaos-to-clarity-developer-documentation-insights-0b31374d6961)
+- [Microsoft Meeting Integration-Using Graph API and Azure AD]((https://medium.com/@aishwarya.ms661/seamless-microsoft-outlook-meeting-integration-create-online-meeting-events-on-behalf-of-a-user-368e45626d9c))
 </div>
